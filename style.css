@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color: gold;
+}
+.btn-success{
+    margin-top:10px;
+}
+.btn-success:hover{
+    background-color: red;
+    
+}
+canvas{
+
+    margin-top: 30px;
+ border:5px solid black;   
+}
